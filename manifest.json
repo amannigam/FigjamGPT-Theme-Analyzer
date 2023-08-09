@@ -1,0 +1,12 @@
+{
+  "name": "GPT-Insights",
+  "id": "1225126681086014365",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figjam"
+  ]
+
+}
