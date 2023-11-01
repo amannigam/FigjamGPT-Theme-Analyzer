@@ -10,7 +10,7 @@ Install the plugin by import the manifest in the root folder.
 
 ![Install Plugin](/readme-media/install-plugin.gif)
 
-### Edit the insightsoperation.py file
+### Edit the insightsoperations.py file
 
 Open the 'api' folder and find insightsoperations.py, open it in a code editor (PyCharm etc.) and add your openAI API key for the plugin to communicate with GPT.
 
