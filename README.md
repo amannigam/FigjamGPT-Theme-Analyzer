@@ -27,7 +27,7 @@ get insights.
 ### Run the Plugin in Figjam
 As long as the API is running, You can now select the notes together as shown in the main GIF above, and run the installed plugin and it will generate common themes for you.
 
-###Additional Note
+### Additional Note
 On line 57 of insightsoperations.py, you will the prompt being used to trigger this operation. You can experiment with this and refine your insights. Do not change the
 essence of the prompt completely since the plugin is also coded to show data in Figjam in a particular way.
 
